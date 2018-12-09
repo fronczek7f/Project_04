@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project_04</string>
+    <string name="btn_framelayout">Show Framelayout</string>
+    <string name="btn_linearlayout">Show Linearlayout (Horizontal)</string>
+    <string name="btn_tablelayout">Show Tablelayout</string>
+    <string name="btn_gridlayout">Show Gridlayout</string>
+    <string name="btn_relativelayout">Show Relativelayout</string>
+    <string name="btn_useless_1">Useless Button Number 1</string>
+    <string name="btn_useless_2">Useless Button Number 2</string>
+    <string name="btn_foo_1">Foo 1</string>
+    <string name="btn_foo_2">Foo 2</string>
+</resources>
